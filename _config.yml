@@ -26,7 +26,7 @@ url                      : "https://jun311k.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jun311k/jun311k.github.io"
 teaser                   : "jun311k.github.io/docs/assets/images/logo_3.png"
-logo                     : "/assets/images/88x88.png"
+logo                     : "jun311k.github.io/docs/assets/images/logo_3.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
