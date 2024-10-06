@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Kang Jun Seok"
-  avatar           : "jun311k.github.io/docs/assets/images/logo_3.png"
+  avatar           : "docs/assets/images/logo_3.png"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
