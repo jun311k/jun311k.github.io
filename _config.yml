@@ -25,7 +25,7 @@ description              : "Hardware Research"
 url                      : "https://jun311k.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jun311k/jun311k.github.io"
-teaser                   : "/assets/images/500x300.png"
+teaser                   : "docs/assets/images/android-chrome-144x144.png"
 logo                     : "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
