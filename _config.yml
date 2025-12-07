@@ -23,7 +23,7 @@ repository               : "jun311k/jun311k.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/강준석_증명사진.jpg"
   name             : "Junseok Kang"
   pronouns         : # example: "she/her"  
   bio              : "I'm interested in VPU(Vector Processing Unit) architectures and SoC design, with a particular focus on RISC-V ISA"
